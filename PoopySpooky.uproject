@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "Navigation3D",
+			"Enabled": false
 		}
 	]
 }
